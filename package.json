@@ -8,12 +8,13 @@
   "main": "./simplewebrtc.js",
   "description": "World's easiest webrtc",
   "dependencies": {
-    "webrtcsupport": "^1.0.0",
-    "wildemitter": "1.x",
-    "socket.io-client": "0.9.16",
     "attachmediastream": "1.0.1",
+    "daemon": "^1.1.0",
+    "mockconsole": "0.0.1",
+    "socket.io-client": "0.9.16",
     "webrtc": "1.11.x",
-    "mockconsole": "0.0.1"
+    "webrtcsupport": "^1.0.0",
+    "wildemitter": "1.x"
   },
   "devDependencies": {
     "express": "3.x.x",
